@@ -1,0 +1,64 @@
+body{
+  background-color: white;
+}
+.button{
+  text-align: center;
+  color: #6699cc
+}
+
+.i5 {
+  position: relative;
+  width: 1400px;
+}
+
+.i51 {
+position: absolute;
+  bottom: 20px;
+  color: white;
+ text-align: center;
+}
+.about-us{
+  text-align: center;
+  font-family:  Garamond, serif;
+}
+.text{
+  text-align: center;
+  font-family:  Garamond, serif;
+  text-align: center;
+}
+.copy-right{
+  text-align: center;
+  font-family: sans-serif;
+}
+
+
+.greatlake{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+.copy{
+  text-align: center;
+}
+.navbar{
+  height: 40px;
+  width: 100%;
+  border-radius: 20px;
+  border-color: blue;
+}
+.textimg{
+  padding-bottom: 20rem;
+  padding-left: 20rem
+}
+.card-body-3{
+  padding-bottom: 400px;
+}
+.carosaltext{
+text-overflow: ellipsis;
+color: white;
+text-transform: full-width;
+}
+.icons{
+  text-align: center;
+  height: 200px;
+  text-align: center;
+}
